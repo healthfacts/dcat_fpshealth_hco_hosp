@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "971a07b5-af69-833b-9587-fe78159b40e1",
+    "title": "Contact and accreditation details of general and psychiatric hospitals in Belgium (2023.05) (Nederlandstalige versie)",
+    "description": "General healthcare in Belgium includes two categories of hospitals: general & psychiatric hospitals. Each of these healthcare institutions has a specific healthcare offering, its own infrastructure, its own operation and its own financing mechanisms. Within the Data and Policy Information service of the FPS Public Health, the contact, address and recognition details of these institutions are maintained and systematically updated. The overviews show practical and recognized data per region about each institution per campus (address, telephone numbers, number of beds, medical services and medical-technical services, care programs, functions, etc.).",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_hco_hosp/blob/main/fpshealth_hco_hosp_202305_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_hco_hosp/blob/main/fpshealth_hco_hosp_202305_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 98963,
+    "modificationDate": "2023-11-22 11:47:18",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/nl/gezondheid/organisatie-van-de-gezondheidszorg/delen-van-gezondheidsgegevens/gezondheidszorginstellingen; https://www.health.belgium.be/fr/sante/organisation-des-soins-de-sante/partage-de-donnees-de-sante/institutions-de-soins",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "7cc0d545-7677-44ac-8c82-62484463d674",
+        "title": "Contact and accreditation details of general and psychiatric hospitals in Belgium",
+        "landingPage": "https://www.health.belgium.be/nl/gezondheid/organisatie-van-de-gezondheidszorg/delen-van-gezondheidsgegevens/gezondheidszorginstellingen; https://www.health.belgium.be/fr/sante/organisation-des-soins-de-sante/partage-de-donnees-de-sante/institutions-de-soins",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "adhoc_admDM@health.fgov.be"
+    }
+}
