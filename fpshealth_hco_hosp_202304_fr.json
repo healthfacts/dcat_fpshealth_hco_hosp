@@ -14,13 +14,13 @@
     "language": "fr",
     "availability": "stable",
     "license": "CC_BY_4_0",
-    "documentation": "https://www.health.belgium.be/nl/gezondheid/organisatie-van-de-gezondheidszorg/delen-van-gezondheidsgegevens/gezondheidszorginstellingen; https://www.health.belgium.be/fr/sante/organisation-des-soins-de-sante/partage-de-donnees-de-sante/institutions-de-soins",
+    "documentation": "https://www.health.belgium.be/en/node/25589",
     "keyword": [],
     "dataset": {
         "@type": "dataset",
         "identifier": "7cc0d545-7677-44ac-8c82-62484463d674",
-        "title": "Contact and accreditation details of general and psychiatric hospitals in Belgium",
-        "landingPage": "https://www.health.belgium.be/nl/gezondheid/organisatie-van-de-gezondheidszorg/delen-van-gezondheidsgegevens/gezondheidszorginstellingen; https://www.health.belgium.be/fr/sante/organisation-des-soins-de-sante/partage-de-donnees-de-sante/institutions-de-soins",
+        "title": "Contact and accreditation details of Belgian general and psychiatric hospitals",
+        "landingPage": "https://www.health.belgium.be/en/node/25589",
         "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
         "contactPointEmail": "adhoc_admDM@health.fgov.be"
     }
